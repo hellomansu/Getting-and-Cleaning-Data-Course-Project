@@ -86,5 +86,4 @@ Summarize
 ---------------------------------------------------------------------------------------------------------
 _**From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject(/participant)**_
 
-Using dplyr's *group_by* and *summarize_each* verbs, prepare the tidydata data frmame and write it to the output file
-called tidy.txt.
+Using dplyr's *group_by* and *summarize_each* verbs, prepare the tidydata data frame and write it to the output file called tidy.txt.
